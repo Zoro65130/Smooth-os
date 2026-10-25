@@ -1,0 +1,1 @@
+# SmoothOS - keep defaults
